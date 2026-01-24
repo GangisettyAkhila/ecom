@@ -24,3 +24,4 @@ route.post("/create-user", async (req, res) => {
 })
 
 module.exports = route
+//exporting the route
